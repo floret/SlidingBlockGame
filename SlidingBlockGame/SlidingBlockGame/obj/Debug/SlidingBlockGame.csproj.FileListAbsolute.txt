@@ -1,0 +1,8 @@
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\bin\Debug\SlidingBlockGame.exe.config
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\bin\Debug\SlidingBlockGame.exe
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\bin\Debug\SlidingBlockGame.pdb
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\obj\Debug\SlidingBlockGame.csprojResolveAssemblyReference.cache
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\obj\Debug\SlidingBlockGame.Properties.Resources.resources
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\obj\Debug\SlidingBlockGame.csproj.GenerateResource.Cache
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\obj\Debug\SlidingBlockGame.exe
+F:\main\Folders\Cracks\Coding\C# files\GitHub\SlidingBlockGame\SlidingBlockGame\SlidingBlockGame\obj\Debug\SlidingBlockGame.pdb
